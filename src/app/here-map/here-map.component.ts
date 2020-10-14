@@ -1,6 +1,6 @@
 import { AfterViewInit, Component, ElementRef, Input, OnInit, ViewChild } from '@angular/core';
 
-import { environment } from 'src/environments/environment';
+import { environment } from '../../environments/environment';
 
 declare var H: any;
 
